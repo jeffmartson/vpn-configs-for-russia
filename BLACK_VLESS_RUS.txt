@@ -1,5 +1,3 @@
-Date/Time: 2026-01-21 / 18:30 (Moscow)
-For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 vless://2dcfa7eb-170a-46c8-b367-ce68d86a03c2@chatgpt.com:2053?path=%2F&security=tls&encryption=none&host=ir2.airpanel.top&fp=chrome&type=ws&sni=ir2.airpanel.top#%F0%9F%87%A6%F0%9F%87%B1%20Albania%2C%20Tirana%20%5BBL%5D
 vless://e258977b-e413-4718-a3af-02d75492c349@148.135.64.91:443?encryption=none&security=tls&sni=all.aniuge.qzz.io&insecure=0&allowInsecure=0&type=ws&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560#%F0%9F%87%A6%F0%9F%87%B7%20Argentina%2C%20Neuqu%C3%A9n%20%5BBL%5D
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@8.6.112.0:2053?encryption=none&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Bruck%20an%20der%20Leitha%20%5BBL%5D
